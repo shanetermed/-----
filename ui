@@ -782,7 +782,7 @@ function library:Introduction()
     text.Parent = background
     text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     text.BackgroundTransparency = 1.000
-    text.Position = UDim2.new(0.9127516, 0, 0, 0)
+    text.Position = UDim2.new(0.95, 0, 0, 0)  -- Increased the X scale value to move the text to the right
     text.Size = UDim2.new(0, 26, 0, 21)
     text.Font = Enum.Font.Code
     text.Text = "Westbound"
