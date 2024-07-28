@@ -771,7 +771,7 @@ function library:Introduction()
     xsx.Parent = background
     xsx.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     xsx.BackgroundTransparency = 1.000
-    xsx.Size = UDim2.new(0, .90, 0, 21)
+    xsx.Size = UDim2.new(0, .90, 0, 5)
     xsx.Font = Enum.Font.Code
     xsx.Text = "Created by Cord"
     xsx.TextColor3 = Color3.fromRGB(124, 124, 124)
